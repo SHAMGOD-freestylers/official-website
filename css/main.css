@@ -567,6 +567,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -780,10 +781,14 @@ header nav a {
   font-family: "Alfa Slab One", cursive;
   letter-spacing: 0.07rem;
   cursor: pointer;
+  -webkit-transition: .3s;
+  transition: .3s;
 }
 
 header nav a:hover {
-  opacity: 0.7;
+  opacity: 0.8;
+  -webkit-transition: .3s;
+  transition: .3s;
 }
 
 @media (max-width: 480px) {
@@ -895,6 +900,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -1051,6 +1057,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -1263,6 +1270,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -1630,6 +1638,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -1890,6 +1899,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -2286,6 +2296,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -2495,6 +2506,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
@@ -2827,6 +2839,7 @@ body {
   border-left: thick solid black;
   padding-left: 2.4rem;
   margin-left: 2.4rem;
+  letter-spacing: 0.1em;
 }
 
 @media (max-width: 480px) {
